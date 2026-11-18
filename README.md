@@ -38,9 +38,8 @@
 
 ## 📸 截图
 
-> 把截图放进仓库的 `images/` 文件夹，再把下面这行改成你的图片路径：
->
-> `![界面截图](images/screenshot.png)`
+> <img width="1280" height="800" alt="截图_2026-11-18_11-13-11" src="https://github.com/user-attachments/assets/4651c27a-31c1-4a8c-987b-74cab72e5e46" />
+
 
 ---
 
